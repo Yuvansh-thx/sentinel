@@ -9,8 +9,6 @@
 
 **Sentinel** is a high-precision, real-time transaction intelligence platform UI prototype built for institutional fraud detection, behavioral anomaly isolation, graph forensics, and sub-5ms risk inference.
 
-Engineered with the visual density of Palantir, the financial precision of Stripe, and the tactile micro-interaction fidelity of Linear, Sentinel establishes a complete frontend design system and operational interaction model for high-throughput payment rails, cross-border settlement, and multi-hop fraud syndicates.
-
 ---
 
 ## Table of Contents
@@ -414,7 +412,7 @@ export interface RiskRule {
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-org/sentinel.git
+git clone https://github.com/Yuvansh-thx/sentinel.git
 cd sentinel
 
 # 2. Install dependencies
@@ -456,6 +454,5 @@ Sentinel was created with clean modular boundaries to allow seamless replacement
 
 ---
 
-## License
+## Sentinel - Made by Yuvansh
 
-Institutional Proprietary — Designed & Developed for Sentinel Intelligence Systems. All rights reserved.
